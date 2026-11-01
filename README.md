@@ -13,7 +13,6 @@ My focus was to analyse sales trends, profitability, regional and product catego
 ## Project at a Glance
 
 | Project Detail | Information |
-|---|---|
 | Industry | FMCG |
 | Analysis Period | April 2023 – March 2026 |
 | Raw Sales Records | 60,261 |
@@ -60,7 +59,6 @@ I also built data quality checks to reconcile record counts and financial metric
 I developed an Excel dashboard to track overall sales performance and compare results across financial years, regions, and product categories.
 
 | KPI | Overall Result |
-|---|---:|
 | Gross Sales | ₹11.05 Cr |
 | Net Sales | ₹10.56 Cr |
 | Gross Profit | ₹2.96 Cr |
